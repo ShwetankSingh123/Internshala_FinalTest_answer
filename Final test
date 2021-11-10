@@ -11,3 +11,21 @@ B. Result will be, 'False'.
 Solution
 
 Correct answer : B
+
+Question 02
+Which type of operands are permitted with logical operators?
+
+A. Numeric
+
+B. Boolean
+
+C. String
+
+D. All three-Numeric,
+
+Boolean and String
+
+
+Solution
+
+Correct answer: D 
