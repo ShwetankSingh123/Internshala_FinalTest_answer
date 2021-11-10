@@ -1,0 +1,13 @@
+Question 01 
+What will be result of following expression?
+
+'INTERNSHALA'.lower().isupper()
+
+A. Result will be, 'True'.
+
+B. Result will be, 'False'.
+
+
+Solution
+
+Correct answer : B
